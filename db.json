@@ -1,16 +1,15 @@
 {
-  "posts":[
+  "pizzaProducts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "imgPath": "https://img1.wsimg.com/isteam/stock/2999/:/",
+      "price": 12.5,
+      "name": "Cheese burst pizza"
+    },
+
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "imgPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeN9ZmxOgfpz2fNKoay9gqh5sgKCkpSzbjEYbNuby5dhnJV-_C",
+      "price": 15,
+      "name": "Tomato corn pizza"
     }
   ]
 }
