@@ -46,10 +46,52 @@
       "price": 4.5,
       "name": "Paneer pyara pizza",
       "isAvailable": true
-    }
-
-    
-  ]   
+    }   
+  ],
+  
+  burgerProducts = [
+    {
+      "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr12w46jsCKxktN9BXHUJIqCevRZAvPIVKNJkDoI4UpEdyEHkK",
+      "price": 12.5,
+      "name": "Aloo tikki burger",
+      "isAvailable": true
+    },
+    {
+      "imgPath":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_gjQD-qDUIRd23JT36NRkzZyAsoWzfZ6lngWMkDPqv9x_1e3O",
+      "price": 5.5,
+      "name": "Fresh paneer burger",
+      "isAvailable": true
+    },
+    {
+      "imgPath":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOtgZD6lAG5SzIwAyuSpcm5_BCHlowjYY-92M0XRrjEwP5OAvs",
+      "price": 6.5,
+      "name": "Cheese regular",
+      "isAvailable": true
+    },
+    {
+      "imgPath":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRW-O0XOzIyC3kYGwDDSggxg8fmHQG9PZQ6A47swIi3NOPcKQ_5",
+      "price": 9,
+      "name": "Masala magic burger",
+      "isAvailable": true
+    },
+    {
+      "imgPath":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSS8UqX9n2WHrP5EKfpxKV_tGY8oHUiCmVbttP65SXiBOQRrl3e",
+      "price": 12,
+      "name": "Corn paper paneer",
+      "isAvailable": true
+    },
+    {
+      "imgPath":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqfASPBD0EMycAVIeKolF-M9i3XXJ4j77bnlaes7NwqHiVipbs",
+      "price": 10,
+      "name": "Peas wopper burger",
+      "isAvailable": true
+    },
+  ],
   
   
 }
