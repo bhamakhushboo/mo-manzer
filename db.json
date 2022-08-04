@@ -2,7 +2,8 @@
   "pizzaProducts": [
     {"imgPath": "https://img1.wsimg.com/isteam/stock/2999/:/",
      "price": 12.50,
-     "name": "Cheese burst pizza"}
+     "name": "Cheese burst pizza",
+    "isAvailable": true}
 
     
   ]
