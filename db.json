@@ -1,100 +1,105 @@
 {
-  "pizzaProducts": [
-    {"imgPath": "https://img1.wsimg.com/isteam/stock/2999/:/",
-     "price": 12.50,
-     "name": "Cheese burst pizza",
-    "isAvailable": true},
-
-     {"imgPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeN9ZmxOgfpz2fNKoay9gqh5sgKCkpSzbjEYbNuby5dhnJV-_C",
-     "price": 15,
-     "name": "Tomato corn pizza",
-    "isAvailable": true},
-    
-    {
-      "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2VIH8gqiZXtM5XbkSKefPMidImjnfSku_imKBCEaOB8Xxhdba",
-      "price": 5.9,
-      "name": "Cheesy smoke paper pizza",
-      "isAvailable": true
-    },
-    
-    {
-      "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7x6T2N0tJvT5QUkVL4ebbU-0CLxlpFGtT9kHwVttKu8odx3x5",
-      "price": 2.5,
-      "name": "Mashroom magic pizza",
-      "isAvailable": true
-    },
-    {
-      "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH2laiUvjvONmyzXwco_fMEuulEB2vFhX1tCUcjwb02NU5d4gC",
-      "price": 16.2,
-      "name": "Corn paper pizza",
-      "isAvailable": true
-    },
-    {
-      "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG2IO9fCVl7YpNo5wv2CtMOBKUNVBc5W47sh_wUOTwdzkgtwqW",
-      "price": 15.5,
-      "name": "Tasty herbs pizza",
-      "isAvailable": true
-    },
-    {
-      "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIGsLK0SsZ7lG0JcJI5oDEu3yfim78gfTwAqJkGixwo19TIkEi",
-      "price": 8.95,
-      "name": "Veggy cheesy smoky pizza",
-      "isAvailable": true
-    },
-    {
-      "imgPath":"https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1-500x375.jpg",
-      "price": 4.5,
-      "name": "Paneer pyara pizza",
-      "isAvailable": true
-    }   
-  ],
-
-
-
-  
-  "burgerProducts": [
-    {
-      "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr12w46jsCKxktN9BXHUJIqCevRZAvPIVKNJkDoI4UpEdyEHkK",
-      "price": 12.5,
-      "name": "Aloo tikki burger",
-      "isAvailable": true
-    },
-    {
-      "imgPath":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_gjQD-qDUIRd23JT36NRkzZyAsoWzfZ6lngWMkDPqv9x_1e3O",
-      "price": 5.5,
-      "name": "Fresh paneer burger",
-      "isAvailable": true
-    },
-    {
-      "imgPath":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOtgZD6lAG5SzIwAyuSpcm5_BCHlowjYY-92M0XRrjEwP5OAvs",
-      "price": 6.5,
-      "name": "Cheese regular",
-      "isAvailable": true
-    },
-    {
-      "imgPath":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRW-O0XOzIyC3kYGwDDSggxg8fmHQG9PZQ6A47swIi3NOPcKQ_5",
-      "price": 9,
-      "name": "Masala magic burger",
-      "isAvailable": true
-    },
-    {
-      "imgPath":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSS8UqX9n2WHrP5EKfpxKV_tGY8oHUiCmVbttP65SXiBOQRrl3e",
-      "price": 12,
-      "name": "Corn paper paneer",
-      "isAvailable": true
-    },
-    {
-      "imgPath":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqfASPBD0EMycAVIeKolF-M9i3XXJ4j77bnlaes7NwqHiVipbs",
-      "price": 10,
-      "name": "Peas wopper burger",
-      "isAvailable": true
-    },
-  ]
-  
-  
+    "menu":{
+        "pizzaProducts": [
+            {"imgPath": "https://img1.wsimg.com/isteam/stock/2999/:/",
+             "price": 12.50,
+             "name": "Cheese burst pizza",
+            "isAvailable": true},
+        
+             {"imgPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeN9ZmxOgfpz2fNKoay9gqh5sgKCkpSzbjEYbNuby5dhnJV-_C",
+             "price": 15,
+             "name": "Tomato corn pizza",
+            "isAvailable": true},
+            
+            {
+              "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2VIH8gqiZXtM5XbkSKefPMidImjnfSku_imKBCEaOB8Xxhdba",
+              "price": 5.9,
+              "name": "Cheesy smoke paper pizza",
+              "isAvailable": true
+            },
+            
+            {
+              "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7x6T2N0tJvT5QUkVL4ebbU-0CLxlpFGtT9kHwVttKu8odx3x5",
+              "price": 2.5,
+              "name": "Mashroom magic pizza",
+              "isAvailable": true
+            },
+            {
+              "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH2laiUvjvONmyzXwco_fMEuulEB2vFhX1tCUcjwb02NU5d4gC",
+              "price": 16.2,
+              "name": "Corn paper pizza",
+              "isAvailable": true
+            },
+            {
+              "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG2IO9fCVl7YpNo5wv2CtMOBKUNVBc5W47sh_wUOTwdzkgtwqW",
+              "price": 15.5,
+              "name": "Tasty herbs pizza",
+              "isAvailable": true
+            },
+            {
+              "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIGsLK0SsZ7lG0JcJI5oDEu3yfim78gfTwAqJkGixwo19TIkEi",
+              "price": 8.95,
+              "name": "Veggy cheesy smoky pizza",
+              "isAvailable": true
+            },
+            {
+              "imgPath":"https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1-500x375.jpg",
+              "price": 4.5,
+              "name": "Paneer pyara pizza",
+              "isAvailable": true
+            }   
+          ],
+        
+        
+        
+          
+          burgerProducts: [
+            {
+              "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr12w46jsCKxktN9BXHUJIqCevRZAvPIVKNJkDoI4UpEdyEHkK",
+              "price": 12.5,
+              "name": "Aloo tikki burger",
+              "isAvailable": true
+            },
+            {
+              "imgPath":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_gjQD-qDUIRd23JT36NRkzZyAsoWzfZ6lngWMkDPqv9x_1e3O",
+              "price": 5.5,
+              "name": "Fresh paneer burger",
+              "isAvailable": true
+            },
+            {
+              "imgPath":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOtgZD6lAG5SzIwAyuSpcm5_BCHlowjYY-92M0XRrjEwP5OAvs",
+              "price": 6.5,
+              "name": "Cheese regular",
+              "isAvailable": true
+            },
+            {
+              "imgPath":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRW-O0XOzIyC3kYGwDDSggxg8fmHQG9PZQ6A47swIi3NOPcKQ_5",
+              "price": 9,
+              "name": "Masala magic burger",
+              "isAvailable": true
+            },
+            {
+              "imgPath":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSS8UqX9n2WHrP5EKfpxKV_tGY8oHUiCmVbttP65SXiBOQRrl3e",
+              "price": 12,
+              "name": "Corn paper paneer",
+              "isAvailable": true
+            },
+            {
+              "imgPath":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqfASPBD0EMycAVIeKolF-M9i3XXJ4j77bnlaes7NwqHiVipbs",
+              "price": 10,
+              "name": "Peas wopper burger",
+              "isAvailable": true
+            },
+          ]
+    }
 }
+   
+    
+    
+  
+  
