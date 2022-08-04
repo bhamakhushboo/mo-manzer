@@ -49,7 +49,7 @@
     }   
   ],
   
-  burgerProducts = [
+  burgerProducts: [
     {
       "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr12w46jsCKxktN9BXHUJIqCevRZAvPIVKNJkDoI4UpEdyEHkK",
       "price": 12.5,
