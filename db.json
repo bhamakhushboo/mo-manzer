@@ -1,5 +1,5 @@
-{
-    "menu":{
+
+    {
         "pizzaProducts": [
             {"imgPath": "https://img1.wsimg.com/isteam/stock/2999/:/",
              "price": 12.50,
@@ -16,8 +16,7 @@
               "price": 5.9,
               "name": "Cheesy smoke paper pizza",
               "isAvailable": true
-            },
-            
+            },           
             {
               "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7x6T2N0tJvT5QUkVL4ebbU-0CLxlpFGtT9kHwVttKu8odx3x5",
               "price": 2.5,
@@ -49,10 +48,7 @@
               "isAvailable": true
             }   
           ],
-        
-        
-        
-          
+    
           "burgerProducts": [
             {
               "imgPath":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr12w46jsCKxktN9BXHUJIqCevRZAvPIVKNJkDoI4UpEdyEHkK",
@@ -94,12 +90,7 @@
               "price": 10,
               "name": "Peas wopper burger",
               "isAvailable": true
-            },
+            }
           ]
     }
-}
-   
-    
-    
-  
-  
+
