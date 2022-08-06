@@ -481,7 +481,7 @@
       "name": "Kokam shrabat",
       "isAvailable": true
     }
+  ],
 
-  ]
- 
+  "customer": [{ "mobile": "", "email": "", "dob": "", "password": "" }]
 }
