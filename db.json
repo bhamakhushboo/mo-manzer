@@ -483,5 +483,5 @@
     }
   ],
 
-  "customer": [{ "mobile": "", "email": "", "dob": "", "password": "" }]
+  "customer": []
 }
