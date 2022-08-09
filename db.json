@@ -487,5 +487,5 @@
   
   "address": [{"addressid": "1", "customerid":"57080137", "address": "St Joseph Terre Rouge"}],
   
-  "order": [{"orderid": "1", "itemid":"15", "customerid":"57080137"}],
+  "order": [{"orderid": "1", "itemid":"15", "customerid":"57080137"}]
 }
