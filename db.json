@@ -485,5 +485,5 @@
 
   "customer": [{"id": "57080137", "email":"bhama@gmail.com", "dob":"16/05/1998", "password":"password", "address": "St Joseph Terre Rouge"}],
   
-  "order": [{"customerid":"57080137", "itemid":"15"}, {"customerid":"57080137", "itemid":"15"}]
+  "order": [{"id":"57080137", "itemid":["1", "3"]]}]
 }
