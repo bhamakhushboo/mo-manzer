@@ -483,7 +483,7 @@
     }
   ],
 
-  "customer": [{"id": "57080137", "email":"bhama@gmail.com", "dob":"16/05/1998", "password":"password", "address": "St Joseph Terre Rouge"}],
+  "customer": [],
   
   "order": [{"id":"57080137", "itemid":["1", "3"]}]
 }
